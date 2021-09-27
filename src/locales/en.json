@@ -1,0 +1,21 @@
+{
+  "appTitle": "Weather app",
+  "searchForm": {
+    "label": "City title",
+    "buttonName": "Search",
+    "emptyError": "Input city title!",
+    "wrongNameError": "There is no such sity!"
+  },
+  "historyBlock": {
+    "title": "History"
+  },
+  "resultWeather": {
+    "noResult": "Search wether in some city!",
+    "title": "Weather in",
+    "feelsLike": "Feels like",
+    "min": "Min",
+    "max": "Max",
+    "pressure": "Pressure",
+    "humidity": "Humidity"
+  }
+}

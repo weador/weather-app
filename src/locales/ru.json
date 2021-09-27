@@ -1,0 +1,21 @@
+{
+  "appTitle": "Виджет погоды",
+  "searchForm": {
+    "label": "Название города",
+    "buttonName": "Поиск",
+    "emptyError": "Введите название города!",
+    "wrongNameError": "Нет такого города!"
+  },
+  "historyBlock": {
+    "title": "История"
+  },
+  "resultWeather": {
+    "noResult": "Воспользуйтесь поиском по названию города.",
+    "title": "Погода в",
+    "feelsLike": "Ощущается как",
+    "min": "Минимальная",
+    "max": "Максимальная",
+    "pressure": "Давление",
+    "humidity": "Влажность"
+  }
+}
